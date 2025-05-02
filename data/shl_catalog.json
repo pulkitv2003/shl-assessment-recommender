@@ -1,0 +1,120 @@
+[
+    {
+      "name": "Core Java (Entry Level)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "40 minutes",
+      "type": "Technical",
+      "keywords": ["java", "developer"]
+    },
+    {
+      "name": "Sales Support Specialist",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "60 minutes",
+      "type": "Sales",
+      "keywords": ["sales", "support"]
+    },
+    {
+      "name": "Selenium (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "45 minutes",
+      "type": "Technical",
+      "keywords": ["selenium", "automation", "testing"]
+    },
+    {
+        "name": "Core Java (Entry Level) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "duration": "40 minutes",
+        "type": "Technical",
+        "keywords": ["java", "developer", "entry level"]
+      },
+      {
+        "name": "Java 8 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "40 minutes",
+        "type": "Technical",
+        "keywords": ["java", "programming"]
+      },
+      {
+        "name": "Agile Software Development",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "duration": "45 minutes",
+        "type": "Behavioral",
+        "keywords": ["agile", "teamwork", "scrum"]
+      },
+      {
+        "name": "Entry Level Sales Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "60 minutes",
+        "type": "Sales",
+        "keywords": ["sales", "entry level", "communication"]
+      },
+      {
+        "name": "Sales Representative Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "60 minutes",
+        "type": "Sales",
+        "keywords": ["sales", "representative", "negotiation"]
+      },
+      {
+        "name": "Sales Support Specialist Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "60 minutes",
+        "type": "Sales",
+        "keywords": ["sales", "support", "service"]
+      },
+      {
+        "name": "Entry Level Sales Sift Out 7.1",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "15 minutes",
+        "type": "Sales",
+        "keywords": ["sales", "entry level", "sift out"]
+        },
+        {
+        "name": "Automata - Fix (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "40 minutes",
+        "type": "Technical",
+        "keywords": ["java", "bug fixing", "automata", "fix"]
+        },
+        {
+        "name": "Entry level Sales 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-international/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "60 minutes",
+        "type": "Sales",
+        "keywords": ["sales", "entry level", "international"]
+        },
+        {
+        "name": "Core Java (Advanced Level) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "50 minutes",
+        "type": "Technical",
+        "keywords": ["java", "core java", "advanced"]
+        }
+  ]
+  
