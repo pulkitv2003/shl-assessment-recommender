@@ -16,7 +16,7 @@ if st.button("🔍 Get Recommendations"):
         st.warning("⚠️ Please enter a valid query.")
     else:
         try:
-            api_url = "http://localhost:5000/recommend"  # Update this if deployed
+            api_url = "http://localhost:5000/recommend" 
             response = requests.post(api_url, json={"query": query})
             if response.status_code == 200:
                 results = response.json().get("recommendations", [])[:top_k]
